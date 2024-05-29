@@ -1,0 +1,26 @@
+.gaveshaHomeContainer{
+    position: relative;
+    height: 1800px;
+}
+
+.weatherDataEntry_div{
+    position: absolute;
+    left: 400px;
+    top: 50px;
+    margin-bottom: 30px;
+}
+
+
+.userProfile_div{
+    position: absolute;
+    left: 800px;
+    top: 50px;
+    margin-bottom: 30px;
+}
+
+.weatherMarks_div{
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
+
